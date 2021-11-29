@@ -1,5 +1,6 @@
 package com.ust.string20common;
 
+import com.ust.string20common.recursion.StringPermutations;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

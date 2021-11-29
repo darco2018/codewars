@@ -1,4 +1,4 @@
-package com.ust.string20common;
+package com.ust.string20common.recursion;
 
 import java.util.ArrayList;
 import java.util.List;
